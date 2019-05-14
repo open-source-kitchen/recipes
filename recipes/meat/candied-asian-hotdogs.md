@@ -1,7 +1,7 @@
 Candied Asian Hotdogs
 =====================
-By: CMSteffen
-Created: 2019.05.13
+* By: CMSteffen
+* Created: 2019.05.13
 
 About
 -----
